@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 ## 🛠️ Skills & Tools (Learning & Practicing)  
 - Programming: C 
 - Web Development: HTML, CSS, JavaScript (learning basics)  
-- Design: Canva (beginner) 
+- Design: Canva,adobe illustrator, figma(beginner) 
 - 💬 
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+Email: samiarahmanofficial10@gmail.com
 ✨ _This profile is my learning playground. Stay tuned for more projects!_  
 -->
